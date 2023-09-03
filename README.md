@@ -7,4 +7,4 @@ Research experiences and relevant images / figures (Broad, etc.)
 **About me**
 - I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.
 - I'm the son of first-generation immigrants from Cuba.
-- I'm a heritage Spanish speaker and enjoy making/tasting Cuban cuisine.
+- I'm a heritage Spanish speaker and enjoy making/eating Cuban cuisine.

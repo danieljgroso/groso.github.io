@@ -6,7 +6,6 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 **Research experiences** <br />
 *Broad Institute of MIT & Harvard*
 - Computational methods for analyzing spatial transcriptomics data in Crohn's disease <br />
-![Alt text](image link)
 &nbsp;&nbsp;&nbsp;&nbsp;![Report](bayesspace.png)
 
 *University of Florida*

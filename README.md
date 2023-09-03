@@ -1,7 +1,9 @@
 **Post-baccalaureate Researcher, Fred Hutch Cancer Center**
+
 I graduated from the University of Florida in May 2022 with a B.Sc in Biology.
 
 **Research experiences**
+
 Research experiences and relevant images / figures (Broad, etc.)
 
 **About me**

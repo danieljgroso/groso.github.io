@@ -35,6 +35,9 @@
         </ul>
         {% endif %}
         <p class="view"><a href="https://www.linkedin.com/in/danielgroso/">Visit my Linkedin Profile</a></p>
+                {% if site.github.is_project_page %}
+        <p>Visit my GitHub Profile <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
       </header>
       <section>
 
@@ -42,9 +45,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>Visit my GitHub page <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

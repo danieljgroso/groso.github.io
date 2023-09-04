@@ -15,7 +15,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 - Computational methods for analyzing spatial transcriptomics data in Crohn's disease <br />
 <img width="200" alt="bayesspace" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/6bcc5998-6726-4a96-8d6f-e00b0dc4251b">
 
-*University of Florida* <br />
+*University of Florida* <br /><br />
 [Eric Wang Laboratory](http://ericwanglab.com/research.php)<br />
 - RNA mis-localization in neurodegenerative disease<br />
 <img width="200" alt="hippocampus_microscopy" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/ccd09979-9cdb-42ad-81de-3c14f8d8b5bf">

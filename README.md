@@ -3,10 +3,10 @@
 *2023-24 MD-PhD Applicant*
 
 ### Educational background ###
-I attended the University of Florida Honors College and graduated in May 2022 with a B.Sc in Biology. <br /> <br />
+I attended the University of Florida Honors College and graduated in May 2022 with a B.Sc in Biology. <br /> 
 
 ### Research interests ###
-I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, including human disease, evolution, development, and physiology. <br /> <br />
+I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, including human disease, evolution, development, and physiology. <br /> 
 
 ### Research experiences ###
 **Fred Hutchinson Cancer Center** <br />

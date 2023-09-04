@@ -3,6 +3,7 @@
 
 I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <br />
 
+
 **Research experiences** <br /> <br />
 *Fred Hutchinson Cancer Center* <br />
 [Alice Berger Laboratory](https://research.fredhutch.org/berger/en/research.html) <br />
@@ -30,7 +31,14 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 *University of Florida Emerging Pathogens Institute* <br />
 [Anthony Maurelli Laboratory](https://egh.phhp.ufl.edu/anthony-maurelli-phd/) <br />
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
-<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f">
+<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br /><br />
+
+**Leadership**
+*Collective for the Advancement of Minority Medical Scientists (CAMMS)* <br />
+[Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)
+- I co-founded and led CAMMS with Christine Groso during its inaugural year at UF (2021)
+- Two years later, CAMMS maintains a strong presence on the UF campus
+<img width="300" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d"> <br /><br />
 
 **About me**
 - I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.

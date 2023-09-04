@@ -10,7 +10,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 <img height="350" alt="workflow_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/f76f614e-f79e-4523-b232-995bc73d87f6"> <br />
 
 - Functional genomics to study molecular mechanisms of lung cancer <br />
-<img width="200" alt="spheroid_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/9c3fedb2-5626-4feb-b400-4133aed6c58c"><br />
+<img width="200" alt="spheroid_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/9c3fedb2-5626-4feb-b400-4133aed6c58c"><br /><br />
 
 *Broad Institute of MIT & Harvard* <br />
 [2021 Broad Summer Research Program](https://www.broadinstitute.org/bios/daniel-groso)<br />

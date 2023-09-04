@@ -39,6 +39,7 @@ I am broadly interested in genomics and the applications of computational method
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
 <img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br />
 - - - -
+
 ### Leadership ###
 **Collective for the Advancement of Minority Medical Scientists (CAMMS)** <br />
 [Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)
@@ -46,6 +47,7 @@ I am broadly interested in genomics and the applications of computational method
 - Two years later, CAMMS maintains a strong presence on the UF campus <br />
 <img width="200" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d"> <br />
 - - - -
+
 ### About me ###
 - I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.
 - I'm the son of first-generation immigrants from Cuba.

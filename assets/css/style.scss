@@ -1,6 +1,12 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+.inner {
+  max-width: 75%;
+}
+
 @import "jekyll-theme-minimal";
 header {
   img {
@@ -13,3 +19,4 @@ header {
     text-align: left;
   }
 }
+

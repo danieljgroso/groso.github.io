@@ -10,7 +10,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 <img src="https://github.com/danieljgroso/groso.github.io/blob/main/bayesspace.png" width="200" />
 
 
-*University of Florida*
+*University of Florida* <br />
 - RNA mis-localization in neurodegenerative disease, [Eric Wang Laboratory](http://ericwanglab.com/research.php) (2021-2022)
 - Evolutionary genomics of Ctenophora, the earliest diverging animal lineage, [Joseph Ryan Laboratory](http://ryanlab.whitney.ufl.edu/research/) (2020-2021)
 

@@ -7,7 +7,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 *Fred Hutchinson Cancer Center* <br />
 [Alice Berger Laboratory](https://research.fredhutch.org/berger/en/research.html) <br />
 - Genetic interaction mapping in the human genome: [paired guide RNA MAPper](https://github.com/FredHutch/pgMAP_pipeline) [(link to pre-print)](https://arxiv.org/abs/2306.00944)<br />
-<img width="100" alt="workflow_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/f76f614e-f79e-4523-b232-995bc73d87f6"> <br />
+<img height="200" alt="workflow_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/f76f614e-f79e-4523-b232-995bc73d87f6"> <br />
 
 - Functional genomics to study molecular mechanisms of lung cancer <br />
 <img width="200" alt="spheroid_crop" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/9c3fedb2-5626-4feb-b400-4133aed6c58c">

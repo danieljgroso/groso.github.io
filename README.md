@@ -37,7 +37,8 @@ I am broadly interested in genomics and the applications of computational method
 **University of Florida Emerging Pathogens Institute** <br />
 [Anthony Maurelli Laboratory](https://egh.phhp.ufl.edu/anthony-maurelli-phd/) <br />
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
-<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br />
+<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br /> <br />
+
 - - - -
 
 ### Leadership ###
@@ -45,7 +46,8 @@ I am broadly interested in genomics and the applications of computational method
 [Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)
 - I co-founded and led CAMMS with Christine Groso during its inaugural year at UF (2021)
 - Two years later, CAMMS maintains a strong presence on the UF campus <br />
-<img width="200" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d"> <br />
+<img width="200" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d"> <br /><br />
+
 - - - -
 
 ### About me ###

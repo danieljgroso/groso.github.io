@@ -37,7 +37,7 @@ I am broadly interested in genomics and the applications of computational method
 **University of Florida Emerging Pathogens Institute** <br />
 [Anthony Maurelli Laboratory](https://egh.phhp.ufl.edu/anthony-maurelli-phd/) <br />
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
-<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br /><br />
+<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br />
 - - - -
 ### Leadership ###
 **Collective for the Advancement of Minority Medical Scientists (CAMMS)** <br />

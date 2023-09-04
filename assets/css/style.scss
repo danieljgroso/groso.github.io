@@ -10,7 +10,8 @@
 @import "jekyll-theme-minimal";
 header {
   img {
-    border-radius: 0%;
+    border-radius: 50%;
+    max-width: 80%;
   }
   p {
     text-align: center;
@@ -19,4 +20,3 @@ header {
     text-align: left;
   }
 }
-

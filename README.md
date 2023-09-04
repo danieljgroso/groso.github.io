@@ -1,5 +1,6 @@
-**Post-baccalaureate Researcher, Fred Hutchinson Cancer Center** <br />
-**2023-24 MD-PhD Applicant** <br />
+## Post-baccalaureate Researcher ##
+# Fred Hutchinson Cancer Center # 
+*2023-24 MD-PhD Applicant*
 
 ### Educational background ###
 I attended the University of Florida Honors College and graduated in May 2022 with a B.Sc in Biology. <br /> <br />
@@ -36,7 +37,7 @@ I am broadly interested in genomics and the applications of computational method
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
 <img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br /><br />
 
-### Leadership ###  <br />
+### Leadership ###
 **Collective for the Advancement of Minority Medical Scientists (CAMMS)** <br />
 [Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)
 - I co-founded and led CAMMS with Christine Groso during its inaugural year at UF (2021)

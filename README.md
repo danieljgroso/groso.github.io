@@ -6,8 +6,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 **Research experiences** <br /> <br />
 *Fred Hutchinson Cancer Center* <br />
 [Alice Berger Laboratory](https://research.fredhutch.org/berger/en/research.html) <br />
-- Genetic interaction mapping in the human genome: [paired guide RNA MAPper (pgMAP)](https://github.com/FredHutch/pgMAP_pipeline)<br />
-[pre-print](https://arxiv.org/abs/2306.00944) <br />
+- Genetic interaction mapping in the human genome: [paired guide RNA MAPper (pgMAP)](https://github.com/FredHutch/pgMAP_pipeline) [(link to pre-print)](https://arxiv.org/abs/2306.00944) <br />
 - Functional genomics to study molecular mechanisms of lung cancer <br /><br />
 
 *Broad Institute of MIT & Harvard* <br />

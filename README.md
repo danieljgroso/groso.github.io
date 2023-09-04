@@ -51,6 +51,6 @@ I am broadly interested in genomics and the applications of computational method
 - - - -
 
 ### About me ###
-- I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.
+- I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in Florida.
 - I'm the son of first-generation immigrants from Cuba.
 - I'm a heritage Spanish speaker and enjoy making/eating Cuban-American cuisine.

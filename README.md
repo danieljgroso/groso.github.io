@@ -23,7 +23,7 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 
 [Joseph Ryan Laboratory](http://ryanlab.whitney.ufl.edu/research/) <br />
 - Evolutionary genomics of Ctenophora, the earliest diverging animal lineage
-<img width="447" alt="cropped_tree" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/70657676-149a-4f59-9175-d46bf916f7f4"><br /><br />
+<img width="200" alt="cropped_tree" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/70657676-149a-4f59-9175-d46bf916f7f4"><br /><br />
 
 **About me**
 - I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.

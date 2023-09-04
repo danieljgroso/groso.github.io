@@ -7,7 +7,7 @@ I attended the University of Florida Honors College and graduated in May 2022 wi
 
 ### Research interests ###
 I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, including human disease, evolution, development, and physiology. <br /> 
-
+- - - -
 ### Research experiences ###
 **Fred Hutchinson Cancer Center** <br />
 [Alice Berger Laboratory](https://research.fredhutch.org/berger/en/research.html) <br />
@@ -36,7 +36,7 @@ I am broadly interested in genomics and the applications of computational method
 [Anthony Maurelli Laboratory](https://egh.phhp.ufl.edu/anthony-maurelli-phd/) <br />
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
 <img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f"> <br /><br />
-
+- - - -
 ### Leadership ###
 **Collective for the Advancement of Minority Medical Scientists (CAMMS)** <br />
 [Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)

@@ -25,12 +25,12 @@ I graduated from the University of Florida in May 2022 with a B.Sc in Biology. <
 *Whitney Laboratory for Marine Bioscience* <br />
 [Joseph Ryan Laboratory](http://ryanlab.whitney.ufl.edu/research/) <br />
 - Evolutionary genomics of Ctenophora, the earliest diverging animal lineage<br />
-<img width="200" alt="cropped_tree" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/70657676-149a-4f59-9175-d46bf916f7f4"><br />
+<img width="250" alt="cropped_tree" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/70657676-149a-4f59-9175-d46bf916f7f4"><br />
 
 *University of Florida Emerging Pathogens Institute* <br />
 [Anthony Maurelli Laboratory](https://egh.phhp.ufl.edu/anthony-maurelli-phd/) <br />
 - Bacterial genetics and functional discovery of a nutrient uptake system <br />
-<img width="200" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f">
+<img width="250" alt="bacterial_GC" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/e15149b0-48bd-4d5f-a8e5-f43793dfe48f">
 
 **About me**
 - I grew up in [Okeechobee](https://www.cityofokeechobee.com/), a small town in rural Florida.

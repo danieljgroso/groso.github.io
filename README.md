@@ -1,13 +1,13 @@
 **Post-baccalaureate Researcher, Fred Hutchinson Cancer Center** <br />
 **2023-24 MD-PhD Applicant** <br />
 
-### Educational Background ###
+### Educational background ###
 I attended the University of Florida Honors College and graduated in May 2022 with a B.Sc in Biology. <br /> <br />
 
-### Research Interests ###
+### Research interests ###
 I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, including human disease, evolution, development, and physiology. <br /> <br />
 
-### Research experiences ### <br /> <br />
+### Research experiences ###
 **Fred Hutchinson Cancer Center** <br />
 [Alice Berger Laboratory](https://research.fredhutch.org/berger/en/research.html) <br />
 - Genetic interaction mapping in the human genome: [paired guide RNA MAPper](https://github.com/FredHutch/pgMAP_pipeline) [(link to pre-print)](https://arxiv.org/abs/2306.00944)<br />

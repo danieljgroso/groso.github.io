@@ -21,7 +21,7 @@ I am broadly interested in genomics and the applications of computational method
 
 **Broad Institute of MIT & Harvard** <br />
 [2021 Broad Summer Research Program](https://www.broadinstitute.org/bios/daniel-groso)<br />
-- Computational methods for analyzing spatial transcriptomics data in Crohn's disease <br />
+- Computational methods for analyzing spatial transcriptomics data <br />
 <img width="200" alt="bayesspace" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/6bcc5998-6726-4a96-8d6f-e00b0dc4251b"><br /><br />
 
 **University of Florida Genetics Institute** <br />

@@ -1,22 +1,19 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.inner {
-  max-width: 90%;
-}
-
 @import "jekyll-theme-minimal";
 header {
   img {
-    border-radius: 50%;
-    max-width: 70%;
+    border-radius: 0%;
+    max-width: 75%;
   }
   p {
-    text-align: center;
+    text-align: left;
   }
   p.view {
     text-align: left;
+  }
+  p.inner {
+  max-width: 90%;
   }
 }

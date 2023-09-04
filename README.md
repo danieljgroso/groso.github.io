@@ -30,7 +30,7 @@ I am broadly interested in genomics and the applications of computational method
 <img width="250" alt="hippocampus_microscopy" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/ccd09979-9cdb-42ad-81de-3c14f8d8b5bf"> <br />
 
 **Whitney Laboratory for Marine Bioscience** <br />
-[Joseph Ryan Laboratory](http://ryanlab.whitney.ufl.edu/research/)
+[Joseph Ryan Laboratory](http://ryanlab.whitney.ufl.edu/research/)<br />
 - Evolutionary genomics of Ctenophora, the earliest diverging animal lineage<br />
 <img width="250" alt="cropped_tree" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/70657676-149a-4f59-9175-d46bf916f7f4"><br />
 

@@ -43,9 +43,10 @@ I am broadly interested in genomics and the applications of computational method
 
 ### Leadership ###
 **Collective for the Advancement of Minority Medical Scientists (CAMMS)** <br />
+[Follow CAMMS on Instagram](https://www.instagram.com/ufcamms/)
 - I co-founded and led CAMMS with Christine Groso during its inaugural year at UF (2021)
 - Two years later, CAMMS maintains a strong presence on the UF campus <br />
-[<img width="200" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d" />](https://www.instagram.com/ufcamms/) <br /><br />
+[<img width="200" alt="CAMMS_logo" src="https://github.com/danieljgroso/groso.github.io/assets/95438884/26f6c9c5-e11d-4180-a647-cf77d827461d" />](https://linktr.ee/ufcamms) <br /><br />
 
 - - - -
 

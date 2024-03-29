@@ -1,6 +1,5 @@
 ## Post-baccalaureate Researcher ##
 ### Fred Hutchinson Cancer Center ###
-*2023-24 MD-PhD Applicant*
 
 ### Educational background ###
 I attended the University of Florida (Honors Program) and graduated in May 2022 with a B.Sc in Biology. <br /> 

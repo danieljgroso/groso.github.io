@@ -5,7 +5,7 @@
 I am an MD-PhD student at the University of Miami. I attended the University of Florida and graduated in May 2022 with a B.Sc in Biology, during which I had the opportunity to work at the Broad Institute of Harvard & MIT. I spent 2 years doing post-graduate training at the Fred Hutch Cancer Center in Seattle, WA prior to beginning my MSTP journey.  <br /> 
 
 ### Research interests ###
-I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, including human disease, evolution, and development. <br /> 
+I am broadly interested in genomics and the applications of computational methods to understand diverse biological processes, particularly cancer and neurological disesae. I will be exploring my clinical interests in ophthalmology and ocular oncology. <br /> 
 
 - - - -
 
